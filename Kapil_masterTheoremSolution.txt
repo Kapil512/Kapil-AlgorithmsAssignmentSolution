@@ -1,0 +1,5 @@
+1.Θ(nlog23)
+2.NA as f(n) is not positive.
+3.NA as a is not an integer.
+4.Θ(n logn)
+5.Θ(n2) 
